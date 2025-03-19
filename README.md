@@ -1,31 +1,30 @@
 # mlx-piano
 
-### Simples oitava de um piano utilizando a biblioteca MinilibX e Miniaudio
+### Simple octave of a piano using the MinilibX and Miniaudio libraries
 <hr>
 
-## Descrição
+## Description
 
-Este projeto tem como objetivo a criação de uma oitava de um piano utilizando a biblioteca MinilibX e Miniaudio. O projeto foi desenvolvido em C utilizando a biblioteca MinilibX para a criação da interface gráfica e a biblioteca Miniaudio para a reprodução dos sons.
+This project aims to create an octave of a piano using the MinilibX and Miniaudio libraries. The project was developed in C using the MinilibX library for creating the graphical interface and the Miniaudio library for sound playback.
 
+## Installation
 
-## Instalação
-
-Clone este repósitorio utilizando:
+Clone this repository using:
 ```sh
 $ git clone https://github.com/andersonhsporto/mlx-piano.git
 ```
-para compilar utilize o comando:
+to compile, use the command:
 ```sh
 $ make
 ```
-![mandatory](https://github.com/andersonhsporto/mlx-piano/blob/main/resources/keys.png)
+![mandatory](resources\keys.png)
 
-Para executar o programa utilize o comando:
+To run the program, use the command:
 ```sh
 $ ./mlx_piano
 ```
 
-## REFERÊNCIAS
-* Informações Adicionais - [Harm Smits - MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx) 
-* Informações Adicionais - [MiniLibX](https://github.com/42Paris/minilibx-linux) 
-* Informações Adicionais - [Miniaudio](https://miniaud.io/index.html) 
+## REFERENCES
+* Additional Information - [Harm Smits - MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx) 
+* Additional Information - [MiniLibX](https://github.com/42Paris/minilibx-linux) 
+* Additional Information - [Miniaudio](https://miniaud.io/index.html)
